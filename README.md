@@ -29,11 +29,11 @@
 ## Project Supervision Meetings
 - [Meeting 1 - 8/10/2020](/meetings/Meeting_01.md)
 - [Meeting 2 - 15/10/2020](/meetings/Meeting_02.md)
-- [Meeting 3 - 29/10/2020](/Meeting_03.md) 
+- [Meeting 3 - 29/10/2020](/meetings/Meeting_03.md) 
 - [Meeting 4 - 19/11/2020](/meetings/Meeting_04.md)
 - [Meeting 5 - 26/11/2020](/meetings/Meeting_05.md)
 - [Meeting 6 - 10/12/2020](/meetings/Meeting_06.md)
-- [Meeting 7 - 17/12/2020](/Meeting_07.md)
+- [Meeting 7 - 17/12/2020](/meetings/Meeting_07.md)
 - [Meeting 8 - 22/1/2021](/meetings/Meeting_08.md)
 - [Meeting 9 - 3/2/2021](/meetings/Meeting_09.md)
 - [Meeting 10 - 12/2/2021](/meetings/Meeting_10.md)

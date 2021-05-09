@@ -47,4 +47,4 @@
 
 
 <br><br>
-## Date of Next Meeting: Planned for 5/11/2020, rescheduled due to bereavement: [19/11/2020](/Meeting_04.md)
+## Date of Next Meeting: Planned for 5/11/2020, rescheduled due to bereavement: [19/11/2020](Meeting_04.md)

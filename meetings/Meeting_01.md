@@ -50,4 +50,4 @@
 
 
 <br><br>
-## Date of Next Meeting: [15/10/2020](/Meeting_02.md)
+## Date of Next Meeting: [15/10/2020](Meeting_02.md)

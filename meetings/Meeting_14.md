@@ -45,4 +45,4 @@
 - Stick to the plan and timebox activities.
 
 <br><br>
-## Date of Next Meeting: [21/4/21](/Meeting_15.md)
+## Date of Next Meeting: [21/4/21](Meeting_15.md)
